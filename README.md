@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+< html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -50,10 +50,9 @@
 <body>
     <header>
     <!-- Adicionando a logo no topo -->
-    <img src="(17)996052698 (1) (1).png=(17)996052698.png" alt="Logo 5A Serviços e Transportes" style="max-width: 150px;">
+    <img src="(17)996052698 (1) (1).png" alt="Logo 5A Serviços e Transportes" style="max-width: 150px;">
     <h1>5A Serviços e Transportes</h1>
     <p>Confiança e responsabilidade no plantio e transporte</p>
-</header>
 
         <h1>5A Serviços e Transportes</h1>
         <p>Confiança e responsabilidade no plantio e transporte</p>
