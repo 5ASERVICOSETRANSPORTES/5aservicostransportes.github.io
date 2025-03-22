@@ -1,4 +1,4 @@
-lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -48,7 +48,7 @@ lang="pt-br">
 </head>
 <body>
     <header>
-    <img src="(17)996052698 (1) (1).png" alt="Logo 5A Serviços e Transportes" style="max-width: 1080px;">
+    <img src="(17)996052698 (1) (1).png" alt="Logo 5A Serviços e Transportes" style="max-width: 480px;">
         <h1>5A Serviços e Transportes</h1>
         <p>Confiança e responsabilidade no plantio e transporte</p>
     </header>
