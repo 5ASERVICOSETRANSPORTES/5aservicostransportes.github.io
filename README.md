@@ -77,7 +77,8 @@
     </div>
     <div class="container" id="contact">
         <h2>Contato</h2>
-        <p>Email: contato@5aservicos.com</p>
+        <p>Email: 5aservicosetransportes@gmail.com
+</p>
         <p>Telefone: (17) 99605-2698 / (17) 99721-7248</p>
     </div>
     <footer>
