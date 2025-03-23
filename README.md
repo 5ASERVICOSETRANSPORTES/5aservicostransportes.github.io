@@ -72,7 +72,7 @@
     </div>
     <div class="container" id="about">
         <h2>Sobre Nós</h2>
-        <p>Somos uma equipe de 5 associados comprometidos com qualidade e eficiência no setor agrícola e logístico.</p>
+        <p>Somos uma equipe de 5 associados comprometidos com qualidade e eficiência no setor agrícola.</p>
     </div>
     <div class="container" id="contact">
         <h2>Contato</h2>
