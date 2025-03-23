@@ -47,7 +47,7 @@
 </head>
 <body>
     <header>
-    <img src="(17)996052698 (2) (1).png" alt="Logo 5A Serviços e Transportes" style="max-width: 650px;">
+    <img src="(17)996052698 (2) (1).png" alt="Logo 5A Serviços e Transportes" style="max-width: 260px;">
         <h1>5A Serviços e Transportes</h1>
         <p>Confiança e responsabilidade no plantio e transporte</p>
     </header>
